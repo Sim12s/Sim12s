@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sim12s
+- 👀 I’m interested in creating a mod menu for gta 5 
+- 🌱 I’m currently learning C++ And lua
+- 💞️ I’m looking to collaborate on no one
+- 📫 How to reach me on discord Simon2#0001
